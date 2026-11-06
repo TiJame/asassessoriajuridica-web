@@ -1,0 +1,12 @@
+# Cloudflare Pages (2026-11-06): mesmos cabeçalhos que o vercel.json aplicava.
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/AS-logo.jpg
+  Cache-Control: public, max-age=31536000, immutable
+
+/style.css
+  Cache-Control: public, max-age=86400
